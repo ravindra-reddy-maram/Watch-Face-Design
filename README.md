@@ -38,11 +38,9 @@ This is a custom-designed analog smartwatch face created using [Watch Face Studi
 
 ## 📸 Preview
 
-| Watch Preview | Complication Example |
-|---------------|----------------------|
-| ![Preview](./screenshots/1.png) | ![Battery](./screenshots/2.png) |
-
-> *(Add your own screenshots inside a `screenshots/` folder)*
+| Watch Face Design | Live Data on Emulator |
+|-------------------|------------------------|
+| ![Watch Face Layout](./1.png) | ![Live Complications](./2.png) |
 
 ---
 
@@ -51,11 +49,12 @@ This is a custom-designed analog smartwatch face created using [Watch Face Studi
 1. Open the `.wfs` project file in Watch Face Studio
 2. Run on Wear OS Emulator or a connected device
 3. For weather: long-press the watch face → Customize → Assign weather provider
-4. Adjust time slider to simulate hand movement
+4. Use the time slider in WFS to simulate analog hand motion
 
 ---
-
 
 ## 🙌 Acknowledgements
 
 Thanks to the instructors for guidance and Watch Face Studio for enabling rapid smartwatch UI development.
+
+---
